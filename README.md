@@ -30,3 +30,6 @@ Welcome to the **Luna Pet Simulator**! This is a simple Object-Oriented Programm
 ```bash
 git clone https://github.com/Moraa254-MN/OOP-Challenge.git
 cd OOP-Challenge
+
+![Luna Pet Screenshot](https://github.com/Moraa254-MN/OOP-Challenge/raw/main/luna_screenshot.png)
+
