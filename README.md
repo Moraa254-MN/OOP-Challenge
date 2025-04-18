@@ -1,14 +1,32 @@
 # 🐾 Luna Pet Simulator
 
-Welcome to Luna's world! A virtual pet experience built in Python 🐱
+Welcome to the **Luna Pet Simulator**! This is a simple Object-Oriented Programming (OOP) project built with Python. Luna is a virtual pet you can feed, play with, cuddle, train, and more! 🐶🐱🦜
 
-## Features
-- Feed, play, sleep, cuddle, and bathe Luna
-- Teach Luna tricks 🎓
-- Tracks hunger, energy, happiness
-- Auto-save between sessions with JSON
+---
 
-## How to Run
+## 🚀 Features
 
+- 🥣 Eat to reduce hunger
+- 💤 Sleep to restore energy
+- 🎾 Play to boost happiness
+- 🎓 Learn new tricks
+- 🛁 Take baths and get cuddles
+- 📊 View Luna’s status
+- 💾 Save progress between sessions
+
+---
+
+## 📂 Files
+
+- `starter-template.py` - Main simulation logic
+- `luna_save.json` - Pet save file (auto-created)
+- `README.md` - Info and setup instructions
+
+---
+
+## 🧪 How to Run
+
+1. Clone this repository  
 ```bash
-python starter-template.py
+git clone https://github.com/Moraa254-MN/OOP-Challenge.git
+cd OOP-Challenge
